@@ -1,12 +1,7 @@
 # List of ebay appusers
-Tolu
-grace
-ify 
-ola
-Esther
-Joy
-Zino
-Okechukwu
-Maria
+print ("Tolu")
+print ("grace")
+print ("ify") 
+print ("ola")
 
 
